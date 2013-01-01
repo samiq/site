@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gilbert Corrales -- Hacker -- @samiq
 
 # THANKS
 
-    <name>
+    Helga Alvarez for been my love <3
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Bootstrap 
