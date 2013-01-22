@@ -3,14 +3,13 @@
 
 # TEAM
 
-    Gilbert Corrales -- Hacker -- @samiq
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
-    Helga Alvarez for been my love <3
+    <name>
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
-    Bootstrap 
+    Bootstrap, jQuery, Modernizr, Respond.js, Segment.io
