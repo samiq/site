@@ -1,7 +1,7 @@
 site
 ====
 
-This project is an ever updating blank template for a website based on the [HTML5 Boilerplate](http://html5boilerplate.com) v4.1.0 sprinkled with some other sweets.
+This project is a complete front-end template for a website based on the [HTML5 Boilerplate](http://html5boilerplate.com) v4.1.0 and sprinkled with some other sweets.
 
 technologies and frameworks included
 ====================================
@@ -16,5 +16,5 @@ technologies and frameworks included
 change log
 ==========
 
-v.0.1 
+v.1.0 stable 
 Initial release
