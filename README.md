@@ -13,6 +13,8 @@ technologies and frameworks included
 6. Bootstrap         — 2.2.2
 7. Segment.io        — [setup your account](http://segment.io)
 
+P.S. we made this also into an App Engine application template [here](http://github.com/cometoide/site-appengine)
+
 change log
 ==========
 
