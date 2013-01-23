@@ -11,7 +11,7 @@ technologies and frameworks included
 4. Modernizr         — 2.6.2
 5. Respond.js        — 1.1.0
 6. Bootstrap         — 2.2.2
-7. Segment.io        — setup your account(http://segment.io)
+7. Segment.io        — [setup your account](http://segment.io)
 
 change log
 ==========
